@@ -33,8 +33,8 @@ In this lesson, you'll create a basic HTML page using Laragon and Visual Studio 
 
 2. Modify the code to change the heading and paragraph styles:
 ```html
-<h1 style="color:blue;">A Blue Heading</h1>
-<p style="color:red;">A red paragraph.</p>
+<h1 style="color:blue;">A Blue Heading></h1>
+<p style="color:red;">A red paragraph.></p>
 ```
 
 3. Add this code to a new file

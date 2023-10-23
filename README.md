@@ -21,22 +21,6 @@ Before you begin, ensure you have met the following requirements:
 2. **Laragon**: An environment for web development that simplifies server and database setup.
    - [Download Laragon](https://laragon.org/download/)
 
-## Installation
-
-Follow these steps to install the required software for your development environment:
-
-### 1. Visual Studio Code
-
-Click the link below to download and install Visual Studio Code.
-
-[Download Visual Studio Code](https://code.visualstudio.com/)
-
-### 2. Laragon
-
-Click the link below to download and install Laragon, a virtual environment designed for web development.
-
-[Download Laragon](https://laragon.org/download/)
-
 Now that you have the necessary development tools in place, you're ready to get started with your project.
 
 ## Lesson 1: My First Web Page
