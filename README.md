@@ -33,5 +33,26 @@ In this lesson, we'll create our very first web page. You'll learn the basics of
 **Lesson Files:**
 - Lesson1/
   - html/
-  - css/
-  - assets/
+    - [index.html](Lesson1/html/index.html)
+    - [file1.html](Lesson1/html/file1.html)
+    - [file2.html](Lesson1/html/file2.html)
+    - [file3.html](Lesson1/html/file3.html)
+    - [file4.html](lesson1/html/file4.html)
+
+## Lesson 2:
+
+In this lesson, we'll create your CV following the provided plan. This task is an opportunity to showcase your skills and experience, as well as practice structuring and formatting content using HTML and CSS.
+
+**Lesson Description**
+[Read Lesson Description](Lesson2/Description.md)
+
+**Lesson Files:**
+  -Lesson2/
+    -html/
+      -[index.html](Lesson2/html/index.html)
+    -css/
+      -[style.css](Lesson2/css/style.css)
+    -assets/
+      -img/
+      [logos & images](Lesson2/assets/img/)
+
