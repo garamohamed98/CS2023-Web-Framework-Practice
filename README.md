@@ -47,12 +47,12 @@ In this lesson, we'll create your CV following the provided plan. This task is a
 [Read Lesson Description](Lesson2/Description.md)
 
 **Lesson Files:**
-  -Lesson2/
-    -html/
-      -[index.html](Lesson2/html/index.html)
+  - Lesson2/
+    - html/
+      - [index.html](Lesson2/html/index.html)
     -css/
-      -[style.css](Lesson2/css/style.css)
-    -assets/
-      -img/
-      [logos & images](Lesson2/assets/img/)
+      - [style.css](Lesson2/css/style.css)
+    - assets/
+      - img/
+        - [logos & images](Lesson2/assets/img/)
 
